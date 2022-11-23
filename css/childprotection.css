@@ -1,0 +1,23 @@
+.child-protection-nav {
+  position: sticky !important;
+}
+
+.child-protection {
+  width: 80%;
+  border: 1px solid #dcdbdb;
+}
+
+.child-protection-banner {
+  width: 100%;
+  margin: 10px 10px 16px;
+  text-align: center;
+}
+
+.child-protection-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.child-pr2 {
+  width: 18%;
+}
